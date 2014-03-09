@@ -18,6 +18,8 @@ public class Program {
      */
     public static void main(String[] args) {
         Hipotenusa h = new Hipotenusa();
+        Hipotenusa i = new Hipotenusa();
+        
         
         
         // TODO code application logic here
