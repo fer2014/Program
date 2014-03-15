@@ -6,6 +6,10 @@
 
 package businesslogic;
 
+//Esta es la capa de logica de negocio.
+
+
+
 /**
  *
  * @author 17
