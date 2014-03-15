@@ -7,6 +7,7 @@
 package program;
 
 import businesslogic.Hipotenusa;
+import ui.InterfazHip;
 /**
  *
  * @author 17
@@ -17,10 +18,10 @@ public class Program {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        Hipotenusa h = new Hipotenusa();
-        Hipotenusa i = new Hipotenusa();
         
-        
+        //Levantamos Interfaz Gráfica
+        InterfazHip interfaz = new InterfazHip();
+        interfaz.setVisible(true);
         
         // TODO code application logic here
     }
